@@ -1,5 +1,6 @@
 import Image from "next/image"
 import Link from "next/link"
+import Searchbar from "./Searchbar"
 
 const navIcons = [
   {src: '/assets/icons/search.svg', alt : 'search'},
